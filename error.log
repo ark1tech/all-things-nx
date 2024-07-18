@@ -1,0 +1,12 @@
+
+ NX  Generating nx:connect-to-nx-cloud
+
+
+ NX   Schema does not support positional arguments. Argument 'Journey/Projects/Web,Dev/all-things-nx/' found
+
+
+
+(node:28029) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:28027) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+(Use `node --trace-deprecation ...` to show where the warning was created)
